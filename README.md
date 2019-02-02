@@ -2,6 +2,12 @@
 
 This is my personal collection of notes, links and problems regarding software engineer (SWE) interviews. Since I was particularly applying to Google, some of the sources might be too specific, but don't worry about that.
 
+## Overview of this repo:
+- a few notes on basic CS problems: [Notes](https://github.com/KuboBahyl/coding-interviews/blob/master/CSnotes.md)
+- several behavioural questions: [Questions](https://github.com/KuboBahyl/coding-interviews/blob/master/behavioral.md)
+- Python overview/tips/tricks: [Python notebook](https://github.com/KuboBahyl/coding-interviews/blob/master/Python%20fundamentals.ipynb)
+- Collection of DS/Algo topics, problems + solutions: [Folder](https://github.com/KuboBahyl/coding-interviews/tree/master/Algo%20topics)
+
 ## Recommended preparation plan for SWE interview
 1. Choose and learn a programming language
 2. Basic language operations (console, files, streams, etc.)
